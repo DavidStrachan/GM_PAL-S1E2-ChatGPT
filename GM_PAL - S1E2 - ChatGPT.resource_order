@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_connect","order":1,"path":"objects/obj_connect/obj_connect.yy",},
+    {"name":"send_gpt","order":4,"path":"scripts/send_gpt/send_gpt.yy",},
+    {"name":"font_test","order":3,"path":"fonts/font_test/font_test.yy",},
+    {"name":"macros","order":2,"path":"scripts/macros/macros.yy",},
+  ],
+}
